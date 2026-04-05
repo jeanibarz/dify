@@ -6984,16 +6984,6 @@
       "count": 1
     }
   },
-  "app/components/plugins/plugin-detail-panel/subscription-list/create/hooks/use-common-modal-state.ts": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    }
-  },
-  "app/components/plugins/plugin-detail-panel/subscription-list/create/hooks/use-oauth-client-state.ts": {
-    "erasable-syntax-only/enums": {
-      "count": 2
-    }
-  },
   "app/components/plugins/plugin-detail-panel/subscription-list/create/index.tsx": {
     "no-barrel-files/no-barrel-files": {
       "count": 3
@@ -7013,20 +7003,12 @@
       "count": 3
     }
   },
-  "app/components/plugins/plugin-detail-panel/subscription-list/create/types.ts": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    }
-  },
   "app/components/plugins/plugin-detail-panel/subscription-list/delete-confirm.tsx": {
     "tailwindcss/enforce-consistent-class-order": {
       "count": 4
     }
   },
   "app/components/plugins/plugin-detail-panel/subscription-list/edit/apikey-edit-modal.tsx": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    },
     "no-restricted-imports": {
       "count": 1
     }
@@ -7052,9 +7034,6 @@
     }
   },
   "app/components/plugins/plugin-detail-panel/subscription-list/log-viewer.tsx": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    },
     "tailwindcss/enforce-consistent-class-order": {
       "count": 4
     },
@@ -7084,11 +7063,6 @@
     },
     "tailwindcss/enforce-consistent-class-order": {
       "count": 2
-    }
-  },
-  "app/components/plugins/plugin-detail-panel/subscription-list/types.ts": {
-    "erasable-syntax-only/enums": {
-      "count": 1
     }
   },
   "app/components/plugins/plugin-detail-panel/tool-selector/components/index.ts": {
