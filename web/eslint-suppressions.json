@@ -4492,9 +4492,6 @@
     }
   },
   "app/components/datasets/create/website/firecrawl/index.tsx": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    },
     "no-console": {
       "count": 1
     },
@@ -4516,9 +4513,6 @@
     }
   },
   "app/components/datasets/create/website/jina-reader/index.tsx": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    },
     "no-console": {
       "count": 1
     },
@@ -4548,9 +4542,6 @@
     }
   },
   "app/components/datasets/create/website/watercrawl/index.tsx": {
-    "erasable-syntax-only/enums": {
-      "count": 1
-    },
     "no-console": {
       "count": 1
     },
